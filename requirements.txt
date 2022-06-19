@@ -1,0 +1,6 @@
+numpy
+pandas
+jax==0.3.13
+jaxlib==0.3.10
+magic-impute==3.0.0
+scprep==1.1.0
