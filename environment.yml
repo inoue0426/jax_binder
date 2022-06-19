@@ -1,0 +1,3 @@
+dependencies:
+ - jax
+ - jaxlib
