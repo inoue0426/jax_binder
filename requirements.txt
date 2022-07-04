@@ -1,7 +1,7 @@
-numpy>=1.23.0
-scipy>=1.8.1
-pandas>=1.4.3
+numpy
+scipy
+pandas
+tqdm
 scikit-learn>=1.1.1
 jax>=0.3.14
 jaxlib>=0.3.14
-tqdm
